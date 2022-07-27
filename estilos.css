@@ -368,7 +368,7 @@ i:hover{
     background-size: cover;
   }
   .fondoTarjeta2{
-    background-image: url("imagenes/POG.JPG");
+    background-image: url(imagenes/POG.JPG);
     background-size: cover;
   }
   .fondoTarjeta3{
